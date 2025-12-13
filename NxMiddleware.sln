@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26430.6
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36705.20 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BnTxx", "BnTxx\BnTxx.csproj", "{9675F3DE-DF52-4750-9222-BA7707F1566E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LayoutLibrary", "LayoutLibrary\LayoutLibrary.csproj", "{4C8B4DAF-F156-3B73-93EB-43F2EE7CC56B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{9675F3DE-DF52-4750-9222-BA7707F1566E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9675F3DE-DF52-4750-9222-BA7707F1566E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9675F3DE-DF52-4750-9222-BA7707F1566E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C8B4DAF-F156-3B73-93EB-43F2EE7CC56B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C8B4DAF-F156-3B73-93EB-43F2EE7CC56B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C8B4DAF-F156-3B73-93EB-43F2EE7CC56B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C8B4DAF-F156-3B73-93EB-43F2EE7CC56B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
